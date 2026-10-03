@@ -1,0 +1,6 @@
+{
+  "name": "Fun Learning World",
+  "description": "Interactive educational adventure for kids aged 3-8 featuring ABC, Math, Urdu, Animals, Space, Colors & Shapes, and Puzzles with gamified rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
